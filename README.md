@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="coding cat" width="280" src="https://media.tenor.com/images/7cfa66a14e7fc5aca71e5b5a27e34109/tenor.gif"/>
+<img align="right" alt="coding cat" width="250" src="https://i.pinimg.com/originals/0c/67/5a/0c675a8e1061478d2b7b21b330093444.gif"/>
 
 ### 👩‍💻 About Me
 
@@ -107,7 +107,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chahakporwal">
@@ -122,7 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/DN_Kg96XKNMAAAAC/cat-wave.gif" width="100"/>
+ <img src="https://i.pinimg.com/originals/0c/67/5a/0c675a8e1061478d2b7b21b330093444.gif" width="120"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
