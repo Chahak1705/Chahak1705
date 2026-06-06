@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=1000&color=4DA6FF&center=true&vCenter=true&random=false&width=600&lines=Chahak+Porwal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron+&weight=700&size=40&pause=1000&color=4DA6FF&center=true&vCenter=true&random=false&width=600&lines=Chahak+Porwal" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=AI+%26+DL+Enthusiast+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React+Developer;Aspiring+SDE+%26+Backend+Developer+%F0%9F%9A%80;Open+to+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=AI+%26+DL+Enthusiast+%F0%9F%A4%96;Aspiring+SDE+%26+Backend+Developer+%F0%9F%9A%80;Open+to+Opportunities!" alt="Typing SVG" />
   </a>
 </p>
 
 ### `</>` About Me
 
-- 🎓 Final-year **Computer Science** undergrad specializing in **AI & DL**
+- 🎓 Final-year **Computer Science** undergrad at Mody University specializing in **AI & DL** 
 - 💼 Seeking roles in **Software Development & Backend Engineering**
 - 🔭 Currently building **full-stack projects** with Spring Boot & React
 - 🌱 Sharpening **Data Structures & Algorithms** in Java
