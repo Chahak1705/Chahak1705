@@ -16,14 +16,13 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year **Computer Science** undergrad specializing in **AI & Deep Learning**
+- 🎓 Final-year **Computer Science** undergrad specializing in **AI & DL**
 - 💼 Seeking roles in **Software Development & Backend Engineering**
 - 🔭 Currently building **full-stack projects** with Spring Boot & React
 - 🌱 Sharpening **Data Structures & Algorithms** in Java
-- 🤖 Passionate about **Machine Learning** & intelligent systems
+- 🤖 Passionate about **Machine Learning** & Problem Solving
 - 📍 Kota, Rajasthan, India
 - 📧 chahakporwal@gmail.com
-- ⚡ Fun fact: I debug code better with coffee ☕
 
 <br clear="right"/>
 
