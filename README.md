@@ -10,9 +10,6 @@
   <a href="mailto:chahakporwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-<img align="right" alt="coding cat" width="250" src="https://i.pinimg.com/originals/0c/67/5a/0c675a8e1061478d2b7b21b330093444.gif"/>
 
 ### 👩‍💻 About Me
 
