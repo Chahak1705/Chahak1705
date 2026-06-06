@@ -1,24 +1,9 @@
 <h1 align="center" style="color:#FF6B9D; font-family: monospace;">Chahak Porwal</h1>
 
 <p align="center" style="color:#FF6B9D; font-family: monospace;">
-  Building systems that learn, scale, and ship.
+ 
 </p>
 
-<p align="center">
-  <a href="mailto:chahakporwal@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chahakporwal">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Chahak1705">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chahak1705&label=PROFILE+VIEWS&color=555&style=for-the-badge"/>
-</p>
 
 ---
 ### 👩‍💻 About Me
