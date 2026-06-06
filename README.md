@@ -1,12 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chahak%20Porwal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!%20✨&descAlignY=55&descSize=20"/>
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chahak1705&label=Profile+Views&color=6AD3F7&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/chahakporwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
-  <a href="mailto:chahakporwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&duration=4000&pause=1000&color=B388FF&center=true&vCenter=true&width=700&height=100&lines=Hey%2C+I'm+Chahak+Porwal!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Final+Year+CS+Undergrad+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React+Developer;Aspiring+SDE+%26+Backend+Developer+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
 ### 👩‍💻 About Me
 
