@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chahak%20Porwal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!%20✨&descAlignY=55&descSize=20"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Final+Year+CS+Undergrad+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React+Developer+%F0%9F%92%BB;Aspiring+SDE+%26+Backend+Developer+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&pause=1000&color=B388FF&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Chahak+Porwal+%F0%9F%91%8B" alt="Name" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chahak1705&label=Profile+Views&color=6AD3F7&style=flat" alt="profile views" />
