@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year **Computer Science** undergrad specializing in **AI & Deep Learning**
+- 🎓 Final-year **Computer Science** undergrad specializing in **AI & DL**
 - 💼 Seeking roles in **Software Development & Backend Engineering**
 - 🔭 Currently working on **full-stack projects** with Spring Boot & React
 - 🌱 Sharpening **Data Structures & Algorithms** in Java
@@ -39,32 +39,12 @@
 
 | 🗂️ Project | 📝 Description | 🔧 Tech Stack |
 |---|---|---|
-| 🏥 [HealthGuard AI](https://github.com/Chahak1705/healthguard-ai) | AI-powered medical assistant system | Python, Jupyter, ML |
+| 🏥 [HealthGuard AI](https://github.com/Chahak1705/healthguard-ai) | AI-powered medical assistant system | FastApi, Ollama |
 | ❤️ [Heart Disease Prediction](https://github.com/Chahak1705/Heart-Disease-Prediction-AutoAI-) | AutoAI-based disease prediction model | Python, AutoAI, ML |
 | 🌐 [Infosys Website](https://github.com/Chahak1705/Infosys-Website) | Frontend website clone | HTML, CSS |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chahak1705&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chahak1705&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chahak1705&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chahak1705&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
