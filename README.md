@@ -16,7 +16,7 @@
 - 💼 Seeking roles in **Software Development & Backend Engineering**
 - 🔭 Currently building **full-stack projects** with Spring Boot & React
 - 🌱 Sharpening **Data Structures & Algorithms** in Java
-- 🤖 Co-authored research paper on AI-powered healthcare
+- 🤖 Co-authored research paper on AI-powered healthcare(underreview)
 - 📍 Kota, Rajasthan, India
 - 📧 chahakporwal@gmail.com
 
