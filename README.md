@@ -1,11 +1,26 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&duration=4000&pause=1000&color=B388FF&center=true&vCenter=true&width=700&height=100&lines=Hey%2C+I'm+Chahak+Porwal!+%F0%9F%91%8B" alt="Typing SVG" />
+<h1 align="center" style="color:#FF6B9D; font-family: monospace;">Chahak Porwal</h1>
+
+<p align="center" style="color:#FF6B9D; font-family: monospace;">
+  Building systems that learn, scale, and ship.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Final+Year+CS+Undergrad+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React+Developer;Aspiring+SDE+%26+Backend+Developer+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+  <a href="mailto:chahakporwal@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chahakporwal">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Chahak1705">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chahak1705&label=PROFILE+VIEWS&color=555&style=for-the-badge"/>
+</p>
+
+---
 ### 👩‍💻 About Me
 
 - 🎓 Final-year **Computer Science** undergrad specializing in **AI & DL**
