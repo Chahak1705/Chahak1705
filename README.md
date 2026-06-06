@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Chahak!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Final+Year+CS+Undergrad+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React+Developer;Aspiring+SDE+%26+Backend+Developer+%F0%9F%9A%80;Open+to+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Chahak+Porwal%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React+Developer;Aspiring+SDE+%26+Backend+Developer+%F0%9F%9A%80;Open+to+Opportunities!" alt="Typing SVG" />
   </a>
 </p>
 
